@@ -1,0 +1,19 @@
+body {
+    background-color: #3E3D40;
+    height: 2000px;
+    
+}
+#mapcontainer {
+    margin: auto;   
+    text-align: center;
+    
+}
+#miniMapContainer{
+    background-color: #3E3D40;
+    position:fixed;
+    bottom:2%;
+    left:2%;
+    width: 220px;
+    height:200px;
+    border: 1px solid #2D2E30;
+}
